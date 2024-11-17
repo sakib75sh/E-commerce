@@ -15,7 +15,7 @@ Future<void> main() async {
   Bloc.observer = BlockEcommersObserver();
   runApp(const BlocEcommerceApp());
 }
-
+// change ;;;;
 // void main() {
 //   Bloc.observer = BlockEcommersObserver();
 //   runApp(const BlocEcommerceApp());
